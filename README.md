@@ -14,6 +14,8 @@ An AI-powered web application that detects plant diseases from leaf images and p
 
 ## Dataset
 
+[Dataset Link](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset)
+
 The model is trained on a dataset with the following structure:
 - **Training Set**: 1,322 images (458 Healthy, 430 Powdery, 434 Rust)
 - **Test Set**: 150 images
